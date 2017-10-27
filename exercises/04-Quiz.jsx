@@ -19,7 +19,7 @@ var Answers = {
 
   // Question #5: A component's properties can be changed after its initialization. True or false?
   // Tip: See exercise #3
-  answer5: null, // true/false?
+  answer5: false, // true/false?
 
   // Question #6: What's the name of the method for changing the component's state?
   // Tip: See exercise #3

@@ -15,7 +15,7 @@ var Answers = {
   // Question #4: If I want to set `div` component's HTML class, what attribute
   //              should I declare in JSX?
   // Tip: See exercise #2.
-  answer4: "class",
+  answer4: "className",
 
   // Question #5: A component's properties can be changed after its initialization. True or false?
   // Tip: See exercise #3
